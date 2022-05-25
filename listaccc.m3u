@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , HBO HD
+https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , HBO2 HD
+https://edge1.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , HBO Plus HD
+https://edge1.prepro.cvattv.com.ar/live/live/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus.m3u8
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , HBO Signature HD
+https://edge1.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , HBO Extreme HD
+https://edge1.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , tnt HD
+https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Warner HD
+https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Cine Canal HD
+https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Cinemax HD
+https://edge1.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Fx HD
+https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Paramount HD
+https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Sony HD
+https://edge1.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Sony Cine HD
+http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Sony Comedia HD
+https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Sony Novelas HD
+https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Tru Tv HD
+https://edge1.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Comedy Central HD
+https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Space HD
+https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Tbs HD
+https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Estudio Universal HD
+https://edge1.prepro.cvattv.com.ar/live/live/Studio_Universal/SA_Live_WebVTT_FTA/Studio_Universal.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Universal HD
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Syfy HD
+https://edge1.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Amc HD
+https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Tcm HD
+https://edge1.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , H&H HD
+https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , DiscoveryTurbo HD
+https://edge1.prepro.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_WebVTT_FTA/DiscoveryTurbo.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , NatGeo Hd
+https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , Food Network Hd
+https://edge1.prepro.cvattv.com.ar/live/live/Food_Network/SA_Live_WebVTT_FTA/Food_Network.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , LifeTime Hd
+https://edge1.prepro.cvattv.com.ar/live/live/Lifetime/SA_Live_WebVTT_FTA/Lifetime.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , History Hd
+https://edge1.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv-online.cl/tv-chile-en-vivo.jpg" group-title="Lunatico IPTV" , History2 Hd
+https://edge1.prepro.cvattv.com.ar/live/live/History_2/SA_Live_WebVTT_FTA/History_2.m3u8
+
+
